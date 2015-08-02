@@ -1,2 +1,2 @@
 # SpaceShooterPythonGame
-Python game of simple space shooter
+Simple shooting game implemented in python
